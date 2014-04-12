@@ -1,0 +1,7 @@
+*.pyc
+lib
+lib64
+include
+bin
+static/admin
+static/rest_framework
